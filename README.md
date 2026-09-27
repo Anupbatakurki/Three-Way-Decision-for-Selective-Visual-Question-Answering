@@ -327,13 +327,6 @@ The upstream AERPN pipeline and the base feature extraction are described in:
 }
 ```
 
----
-
-## Acknowledgments
-
-The authors thank the School of Computer Science and Engineering, Dayananda Sagar University, for supporting this work. Experiments were run on Kaggle with NVIDIA Tesla T4 accelerators. The VizWiz benchmark is provided by the University of Texas at Austin.
-
----
 
 ## Contact
 
