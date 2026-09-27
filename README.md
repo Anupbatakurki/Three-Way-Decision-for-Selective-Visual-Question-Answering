@@ -3,7 +3,8 @@
 Reference implementation of the paper:
 
 > **Three-Way Decision for Selective Visual Question Answering: Hedge Absorption Expands Coverage at Fixed Confident-Error Budget**
-> Anup Batakurki, Ramesh Chundi
+> Anup Batakurki,Dr Ramesh Chundi
+
 > School of Computer Appplication 
 
 ---
