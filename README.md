@@ -304,9 +304,6 @@ The paper discusses four limits. We restate them here so users do not over-read 
 
 ## Citation
 
-If you use this code, please cite:
-
-```bibtex
 @article{batakurki2026dhsp3w,
   title   = {Three-Way Decision for Selective Visual Question Answering:
              Hedge Absorption Expands Coverage at Fixed Confident-Error Budget},
@@ -314,18 +311,6 @@ If you use this code, please cite:
   journal = {IEEE Transactions on Affective Computing (under review)},
   year    = {2026}
 }
-```
-
-The upstream AERPN pipeline and the base feature extraction are described in:
-
-```bibtex
-@article{batakurki2025aerpn,
-  title   = {AERPN: Adaptive Evidence-Based Risk-Aware Policy Network
-             for Safe Assistive Visual Question Answering},
-  author  = {Batakurki, Anup and Chundi, Ramesh},
-  year    = {2025}
-}
-```
 
 
 ## Contact
